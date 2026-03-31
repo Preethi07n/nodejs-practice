@@ -30,7 +30,7 @@ switch(enterOperation) {
         await deleteEmployee(idDelete);
         break;
     case 5:
-        const search =  readlineSync.questionInt("id:", );
+        const search =  readlineSync.question("query", );
         await searchEmployee(search);
         break;
     default:

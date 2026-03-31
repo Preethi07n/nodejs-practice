@@ -1,4 +1,3 @@
-import  readlineSync  from 'readline-sync';
 
 export async function addEmployee(emp) {
     const res = await fetch("http://localhost:3000/employees", {
