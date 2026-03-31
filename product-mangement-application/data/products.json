@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "name": "Orange juice",
+      "price": 30,
+      "category": "Fresh juice",
+      "manufacturingDate": "2026-03-31T14:24:39.947Z",
+      "expiryDate": "2026-04-10T14:24:39.947Z",
+      "id": "bkzJNe1LR1c"
+    },
+    {
+      "name": "Milk",
+      "price": 30,
+      "category": "Dairy",
+      "manufacturingDate": "2026-03-31T14:27:36.400Z",
+      "expiryDate": "2026-04-10T14:27:36.400Z",
+      "id": "b8KkT22t6gU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
