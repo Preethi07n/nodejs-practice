@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "John@gmail.com",
+      "salary": 80000
+    },
+    {
+      "id": 2,
+      "name": "Mike",
+      "email": "Mike@gmail.com",
+      "salary": 70000
+    },
+    {
+      "id": 3,
+      "name": "test",
+      "email": "test@deloitte.com",
+      "salary": 2000
+    }
+  ]
+}
